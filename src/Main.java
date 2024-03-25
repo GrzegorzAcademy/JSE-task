@@ -1,9 +1,11 @@
 
 public class Main {
     public static void main(String[] args) {
-      TestClass testClass = new TestClass();
-        int number1 = testClass.number1;
-        Integer number2 = testClass.number2;
+        Student student1 = new Student("Adam");
+        Student student2 = new Student("Ewa");
+        student1.printName();
+        student2.printName();
+
 
     }
 }
