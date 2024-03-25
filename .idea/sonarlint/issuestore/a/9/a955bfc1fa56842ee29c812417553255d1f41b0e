@@ -1,4 +1,14 @@
 
+¤
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "localDate".(§³çð8ÝµØµç1J$1cc0711d-071e-49ea-9317-2af812f300ad
 ]
-java:S1220""Move this file to a named package.8¯É¹´ç1J$a98d81f5-c5c3-495d-9668-9ba0eb1db0cc
-m	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8µÉ¹´ç1J$0bae055b-5460-4adf-a679-bdb74b49d933
+java:S1220""Move this file to a named package.8ÞµØµç1J$bbd6c4d9-4094-4746-b6eb-fb476f37c3e8
+m	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8åµØµç1J$5bb0d126-1b34-4c36-8c31-27e24b2474dc
+q
+java:S2140")Use "java.util.Random.nextInt()" instead.(”«ååùÿÿÿÿ8æµØµç1J$33fccbb1-98e5-41b8-8309-eb91f618ff25
+l
+java:S2140")Use "java.util.Random.nextInt()" instead.(Þð¤’8æµØµç1J$4dd18592-4d19-44cd-87d6-3f7df4d87907
+i
+java:S1905"&Remove this unnecessary cast to "int".(§³çð8çµØµç1J$8582ee6a-8de8-490f-99b8-a6d26fc6cce8
+i
+java:S1905"&Remove this unnecessary cast to "int".(§³çð8çµØµç1J$d0508bc3-3856-4b00-8109-dc12f0175c71

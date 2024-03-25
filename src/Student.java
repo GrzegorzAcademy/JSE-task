@@ -1,3 +1,5 @@
+import java.time.LocalDate;
+
 public class Student {
     private String name;
 
@@ -16,4 +18,12 @@ public class Student {
     void printName() {
         System.out.println(name);
     }
+
+    LocalDate getExamDate() {
+        int day = (int) Math.floor((Math.random() * 12) + 1);
+        int month = (int) Math.floor((Math.random() * 31) + 1);
+        LocalDate localDate = LocalDate.of(2024, (int) day, (int) month);
+        return localDate;
+    }
 }
+
