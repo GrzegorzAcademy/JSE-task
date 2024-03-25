@@ -9,3 +9,5 @@
 src/Car.java,b/1/b184f31bfb9ced4bafd8971d7b0c4bbc3ab48d9a
 G
 src/StaticExpample.java,c/f/cf497fb637b83ad0ddb5f2c86085c9128a672a77
+B
+src/TestClass.java,e/b/eb091774000607cda4f6773949d0a3a189fb0470
