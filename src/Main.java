@@ -15,9 +15,13 @@ public class Main {
         car.maxSpeed = 200;
         car2.name = "Audi";
         car2.maxSpeed = 220;
-        System.out.println(car.name);
-        System.out.println(car2.name);
 
+        System.out.println("Engine 1");
+        engine1.getPower();
+        engine1.getCapacity();
+        System.out.println("Engine 2");
+        engine2.getPower();
+        engine2.getCapacity();
 
     }
 }
