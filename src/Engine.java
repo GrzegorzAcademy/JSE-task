@@ -1,12 +1,21 @@
 public class Engine {
-    Integer power;
-    Integer capacity;
+    private Integer power;
 
-    public void getPower() {
+    public void setPower(Integer power) {
+        this.power = power;
+    }
+
+    public void setCapacity(Integer capacity) {
+        this.capacity = capacity;
+    }
+
+    private Integer capacity;
+
+    public void getPowerCar() {
         System.out.println(power);
     }
 
-    public void getCapacity() {
+    public void getCapacityCar() {
         System.out.println(capacity);
     }
 
