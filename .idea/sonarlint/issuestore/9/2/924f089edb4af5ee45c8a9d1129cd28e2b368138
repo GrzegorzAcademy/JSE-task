@@ -1,10 +1,6 @@
 
 ]
-java:S1220""Move this file to a named package.8›ÓØŞç1J$e8bc12b1-0981-4d27-afc5-7d4c8cb354a0
-m	java:S106"+Replace this use of System.out by a logger.(é®Ò˜8°ÓØŞç1J$5c7a9b69-58a8-4821-85bc-cb895b2a8635
-r	java:S106"+Replace this use of System.out by a logger.(»ìóÖøÿÿÿÿ8²ÓØŞç1J$4be07236-17b9-4a8f-b021-21d6f539df3e
-m	java:S106"+Replace this use of System.out by a logger.(›àªÚ8³ÓØŞç1J$5e45444f-60f2-4046-a9ae-e826953b0cbb
-l	java:S106"+Replace this use of System.out by a logger.(öæ¥$8´ÓØŞç1J$3c80a336-4f20-47d7-964e-678888fda933
-r	java:S106"+Replace this use of System.out by a logger.(²çâ÷ùÿÿÿÿ8µÓØŞç1J$63024961-00b5-41fa-aedb-c8a1f778d187
-l	java:S106"+Replace this use of System.out by a logger.(ÄÈ¼8¶ÓØŞç1J$73d15ce4-600e-40f5-ab94-04e3482811d6
-r	java:S106"+Replace this use of System.out by a logger.(È•¦øÿÿÿÿ8¶ÓØŞç1J$b09c73f1-b240-4d93-8921-42744ea50fa0
+java:S1220""Move this file to a named package.8©íŞç1J$7a0929b6-078a-4049-b4f3-dd453ff79913
+r	java:S106"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿ8 öíŞç1J$a2e54f65-a40d-4422-9687-2ba1f20676a3
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÕîŞç1J$321fffc1-0173-4fbd-99a6-9352bef94287
