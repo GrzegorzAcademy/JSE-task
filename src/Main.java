@@ -2,12 +2,20 @@ import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
-        Student student1 = new Student("Adam");
-        Student student2 = new Student("Ewa");
+        Car car1 = new Car();
+        car1.setMaxSpeed(200);
+        car1.setName("Audi");
+        Car car2 = new Car();
+        car2.setMaxSpeed(220);
+        car2.setName("BMW");
 
-        System.out.println("Student " + student1.getName() + " ma egzamin : " + student1.getExamDate());
-        System.out.println("Student " + student2.getName() + " ma egzamin : " + student2.getExamDate());
+        if (car1.getMaxSpeed() > car2.getMaxSpeed()) {
+            car1.setName("Faster car");
 
-
+        } else if (car1.getMaxSpeed() < car2.getMaxSpeed()) {
+            car2.setName("Faster car");
+        }
+        System.out.println(car1.getName());
+        System.out.println(car2.getName());
     }
 }
