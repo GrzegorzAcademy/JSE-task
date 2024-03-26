@@ -1,25 +1,33 @@
-import java.time.LocalDate;
+
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Car car1 = new Car();
-        car1.setMaxSpeed(200);
-        car1.setName("Audi");
-        Car car2 = new Car();
-        car2.setMaxSpeed(220);
-        car2.setName("BMW");
+        Scanner sc = new Scanner(System.in);
+        System.out.println("podaj liczbę całkowita, a ja powiem Ci czy liczba jest parzysta ");
+        int number = sc.nextInt();
 
-        getNameFasterCar(car1, car2);
+        isEvenSwitch(number);
+        isEven(number);
+
     }
 
-    private static void getNameFasterCar(Car car1, Car car2) {
-        if (car1.getMaxSpeed() > car2.getMaxSpeed()) {
-            car1.setName("Faster car");
-
-        } else if (car1.getMaxSpeed() < car2.getMaxSpeed()) {
-            car2.setName("Faster car");
+    public static void isEvenSwitch(int number) {
+        switch (number % 2) {
+            case 0 -> System.out.println("liczba jest parzsta, podałeś : " + number);
+            case 1 -> System.out.println("Podana liczba jest liczba nieparzystą, podałeś :" + number);
+            default -> System.out.println(" Nieprawidłowa liczba, podałeś :" + number);
         }
-        System.out.println(car1.getName());
-        System.out.println(car2.getName());
+    }
+
+    public static void isEven(int number) {
+        if (number % 2 == 0) {
+            System.out.println("Liczba jest parzysta, podałeś : " + number);
+        } else if (number % 2 == 1) {
+            System.out.println("Podana liczba jest niearzysta, podałeś :" + number);
+        } else {
+            System.out.println("Nieprawidłowa liczba, podałeś : " + number);
+        }
+
     }
 }
