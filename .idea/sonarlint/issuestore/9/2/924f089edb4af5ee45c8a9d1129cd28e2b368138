@@ -1,6 +1,6 @@
 
 ]
-java:S1220""Move this file to a named package.8©íŞç1J$7a0929b6-078a-4049-b4f3-dd453ff79913
-r	java:S106"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿ8 öíŞç1J$a2e54f65-a40d-4422-9687-2ba1f20676a3
+java:S1220""Move this file to a named package.8é˜õŞç1J$afaf7f2a-382b-4b81-aee3-9a5c2bde6bee
+r	java:S106	"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿ8ğ˜õŞç1J$c938efe7-cd46-4d7a-a008-c499850d3336
 v
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÕîŞç1J$321fffc1-0173-4fbd-99a6-9352bef94287
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ñ˜õŞç1J$4435bb18-fcc0-436a-ba06-f7b53b46af22
