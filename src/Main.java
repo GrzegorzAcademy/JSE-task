@@ -9,6 +9,10 @@ public class Main {
         car2.setMaxSpeed(220);
         car2.setName("BMW");
 
+        getNameFasterCar(car1, car2);
+    }
+
+    private static void getNameFasterCar(Car car1, Car car2) {
         if (car1.getMaxSpeed() > car2.getMaxSpeed()) {
             car1.setName("Faster car");
 
