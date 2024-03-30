@@ -1,19 +1,23 @@
 
 public class Main {
     public static void main(String[] args) {
-        int i = 14;
-        liste(i);
+        int number = 7;
+        int range = 20;
+        addEvevNumber(number, range);
     }
 
-    private static void liste(int i) {
-        for (int j = 0; j <= i; j++) {
-            if (j % 2 == 0) {
-                continue;
+
+    public static void addEvevNumber(int i, int range) {
+        int result = 0;
+        if (i > range) {
+            System.out.println("za duża liczba");
+        } else if (i < range) {
+            for (int j = 0; j < i; j++) {
+                if (j % 2 == 0) {
+                    result = j + j;
+                }
             }
-            if (j % 11 == 0) {
-                break;
-            }
-            System.out.println(j);
+            System.out.println(result);
         }
     }
 }
