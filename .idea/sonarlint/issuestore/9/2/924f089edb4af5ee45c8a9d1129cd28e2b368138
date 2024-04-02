@@ -1,11 +1,12 @@
 
-p
-java:S5411"(Use a primitive boolean expression here.(ô‰ÂÏøÿÿÿÿ8ï£Æ÷é1J$9072f843-dde1-4244-8fcc-77f5e97d281b
+„
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(Õ‡üÿÿÿÿ8¯Šð÷é1J$d7a9c5d2-066f-414e-9090-85a8e5d5273b
 ]
-java:S1220""Move this file to a named package.8ð£Æ÷é1J$686ff0da-047f-4af1-888a-936aa02239aa
+java:S1220""Move this file to a named package.8Þší÷é1J$15b9dfe7-baa9-45d2-8d3b-7e636b1c12d5
+r	java:S106	"+Replace this use of System.out by a logger.(Õ‡üÿÿÿÿ8»Šð÷é1J$1b47fdf9-707a-454a-aa5d-f704333a8ccf
 m	java:S106
-"+Replace this use of System.out by a logger.(Ó³Òœ8ü£Æ÷é1J$41603cd3-52b3-4bfd-8756-be9ea171cdaa
-m	java:S106"+Replace this use of System.out by a logger.(°ÅŸ‰8ü£Æ÷é1J$94a0d29d-62ee-4dfa-88f4-0ab1ca483803
-m	java:S106"+Replace this use of System.out by a logger.(³ÃÕ8ý£Æ÷é1J$e654e19d-1037-4f98-831c-5a0b43d7ef88
-
-java:S1128"ERemove this unused import 'javax.swing.plaf.synth.SynthOptionPaneUI'.(ªè´¡þÿÿÿÿ8þ£Æ÷é1J$2652e510-ea94-4138-99df-ab1da67cbd12
+"+Replace this use of System.out by a logger.(¾çºÚ8¿Šð÷é1J$81c3ae2d-5235-4bea-9ca6-26977a9477e1
+m	java:S106"+Replace this use of System.out by a logger.(êçÝ‡8ßÇñ÷é1J$384e7e0b-7a80-4fa6-be50-d736ee22649e
+r	java:S106"+Replace this use of System.out by a logger.(¢Ó–Ùÿÿÿÿÿ8žƒò÷é1J$383b5745-b41d-434a-b420-833a42a09f38
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Ÿƒò÷é1J$fcf9db95-6f1d-40bf-9204-774031553b6f
