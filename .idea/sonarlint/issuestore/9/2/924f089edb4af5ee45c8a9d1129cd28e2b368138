@@ -1,7 +1,14 @@
 
-7
-java:S1220""Move this file to a named package.8•²ρθ1
-L	java:S106"+Replace this use of System.out by a logger.(στθ©ώÿÿÿÿ8Α•²ρθ1
-L	java:S106"+Replace this use of System.out by a logger.(άΓ¨Όϋÿÿÿÿ8Κ•²ρθ1
-L	java:S106
-"+Replace this use of System.out by a logger.(κέÿÿÿÿÿÿÿ8Ξ•²ρθ1
+]
+java:S1220""Move this file to a named package.8ων€χι1J$0445eebf-95f2-4172-ac89-0cd1158971b2
+€
+java:S1854"8Remove this useless assignment to local variable "car2".(–’…Υώÿÿÿÿ8ξ€χι1J$0b28e551-0c67-443c-a3dd-1e41a4484e02
+q
+java:S1481")Remove this unused "car2" local variable.(–’…Υώÿÿÿÿ8…ξ€χι1J$0f3080a9-b1d4-4abe-bfa8-720ddc0d332d
+m	java:S106
+"+Replace this use of System.out by a logger.(ΉΆ‰8‰ξ€χι1J$c52617d7-e526-48a8-a593-ae9b7823859d
+l	java:S106"+Replace this use of System.out by a logger.(λΎ° 8ξ€χι1J$cc909fe0-3ea1-46f4-86cf-bb637c9c327a
+r	java:S106"+Replace this use of System.out by a logger.(ΎΔΪ³ύÿÿÿÿ8¬Σ…χι1J$c613a20f-f4ae-4c35-b037-654ddbfd692d
+r	java:S106"+Replace this use of System.out by a logger.(κΌΨώÿÿÿÿ8¦Λ„χι1J$36882acb-d925-4ad6-899f-90af75249776
+
+java:S1128"ERemove this unused import 'javax.swing.plaf.synth.SynthOptionPaneUI'.(ªθ΄΅ώÿÿÿÿ8¨Λ„χι1J$0cd00d08-5403-4195-aadd-1fd72ff092e9
