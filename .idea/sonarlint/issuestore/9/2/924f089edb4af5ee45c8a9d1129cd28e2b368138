@@ -1,14 +1,11 @@
 
+p
+java:S5411"(Use a primitive boolean expression here.(τ‰ΒΟψÿÿÿÿ8ο£Ζχι1J$9072f843-dde1-4244-8fcc-77f5e97d281b
 ]
-java:S1220""Move this file to a named package.8ων€χι1J$0445eebf-95f2-4172-ac89-0cd1158971b2
-€
-java:S1854"8Remove this useless assignment to local variable "car2".(–’…Υώÿÿÿÿ8ξ€χι1J$0b28e551-0c67-443c-a3dd-1e41a4484e02
-q
-java:S1481")Remove this unused "car2" local variable.(–’…Υώÿÿÿÿ8…ξ€χι1J$0f3080a9-b1d4-4abe-bfa8-720ddc0d332d
+java:S1220""Move this file to a named package.8π£Ζχι1J$686ff0da-047f-4af1-888a-936aa02239aa
 m	java:S106
-"+Replace this use of System.out by a logger.(ΉΆ‰8‰ξ€χι1J$c52617d7-e526-48a8-a593-ae9b7823859d
-l	java:S106"+Replace this use of System.out by a logger.(λΎ° 8ξ€χι1J$cc909fe0-3ea1-46f4-86cf-bb637c9c327a
-r	java:S106"+Replace this use of System.out by a logger.(ΎΔΪ³ύÿÿÿÿ8¬Σ…χι1J$c613a20f-f4ae-4c35-b037-654ddbfd692d
-r	java:S106"+Replace this use of System.out by a logger.(κΌΨώÿÿÿÿ8¦Λ„χι1J$36882acb-d925-4ad6-899f-90af75249776
+"+Replace this use of System.out by a logger.(Σ³Ò8ό£Ζχι1J$41603cd3-52b3-4bfd-8756-be9ea171cdaa
+m	java:S106"+Replace this use of System.out by a logger.(°Ε‰8ό£Ζχι1J$94a0d29d-62ee-4dfa-88f4-0ab1ca483803
+m	java:S106"+Replace this use of System.out by a logger.(³ΓΥ8ύ£Ζχι1J$e654e19d-1037-4f98-831c-5a0b43d7ef88
 
-java:S1128"ERemove this unused import 'javax.swing.plaf.synth.SynthOptionPaneUI'.(ªθ΄΅ώÿÿÿÿ8¨Λ„χι1J$0cd00d08-5403-4195-aadd-1fd72ff092e9
+java:S1128"ERemove this unused import 'javax.swing.plaf.synth.SynthOptionPaneUI'.(ªθ΄΅ώÿÿÿÿ8ώ£Ζχι1J$2652e510-ea94-4138-99df-ab1da67cbd12
