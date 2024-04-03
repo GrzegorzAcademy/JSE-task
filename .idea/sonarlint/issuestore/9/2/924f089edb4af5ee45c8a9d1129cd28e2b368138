@@ -1,12 +1,5 @@
 
-„
-java:S4973	"<Strings and Boxed types should be compared using "equals()".(Õ‡üÿÿÿÿ8¯Šğ÷é1J$d7a9c5d2-066f-414e-9090-85a8e5d5273b
 ]
-java:S1220""Move this file to a named package.8Şší÷é1J$15b9dfe7-baa9-45d2-8d3b-7e636b1c12d5
-r	java:S106	"+Replace this use of System.out by a logger.(Õ‡üÿÿÿÿ8»Šğ÷é1J$1b47fdf9-707a-454a-aa5d-f704333a8ccf
-m	java:S106
-"+Replace this use of System.out by a logger.(¾çºÚ8¿Šğ÷é1J$81c3ae2d-5235-4bea-9ca6-26977a9477e1
-m	java:S106"+Replace this use of System.out by a logger.(êçİ‡8ßÇñ÷é1J$384e7e0b-7a80-4fa6-be50-d736ee22649e
-r	java:S106"+Replace this use of System.out by a logger.(¢Ó–Ùÿÿÿÿÿ8ƒò÷é1J$383b5745-b41d-434a-b420-833a42a09f38
-v
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Ÿƒò÷é1J$fcf9db95-6f1d-40bf-9204-774031553b6f
+java:S1220""Move this file to a named package.8„ï½£ê1J$a48db95a-5caf-47e0-8741-eb0117d462b0
+r	java:S106"+Replace this use of System.out by a logger.(¡ô…„úÿÿÿÿ8‰ï½£ê1J$ff2808d5-8f06-444d-819b-cf6a55ff5655
+r	java:S106"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8°È£ê1J$56dbc5fb-e6ce-48d4-be59-3dbdcd1a2259
