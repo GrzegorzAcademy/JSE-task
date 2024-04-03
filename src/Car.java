@@ -1,7 +1,16 @@
 public class Car {
+    private Colour colour;
     private Engine engine;
     private String name;
     private int maxSpeed;
+
+    public Colour getColour() {
+        return colour;
+    }
+
+    public void setColour(Colour colour) {
+        this.colour = colour;
+    }
 
     public Engine getEngine() {
         return engine;

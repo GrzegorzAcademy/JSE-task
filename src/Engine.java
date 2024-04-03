@@ -11,8 +11,12 @@ public class Engine {
 
     private Integer capacity;
 
-    public void getPowerCar() {
-        System.out.println(power);
+    public Integer getPower() {
+        return power;
+    }
+
+    public Integer getCapacity() {
+        return capacity;
     }
 
     public void getCapacityCar() {
