@@ -43,11 +43,10 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car{" +
-                "colour=" + colour +
-                ", engine=" + engine +
-                ", name='" + name + '\'' +
-                ", maxSpeed=" + maxSpeed +
-                '}';
+        return "Car " +
+                " colour = " + colour +
+                ", engine = " + engine +
+                ", name = " + name + '\'' +
+                ", maxSpeed = " + maxSpeed;
     }
 }
