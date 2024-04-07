@@ -1,0 +1,10 @@
+
+]
+java:S1220""Move this file to a named package.8÷—ìÀë1J$1ede3c43-0a5d-475f-9a69-6d32e51a4b47
+y
+java:S1117
+"6Rename "car" which hides the field declared at line 6.(”Â¡í8€˜ìÀë1J$9fcc6d23-0700-40f8-a356-5283c5c2eab1
+r	java:S106"+Replace this use of System.out by a logger.(Ú°¹–úÿÿÿÿ8˜ìÀë1J$ec181537-d1c4-45ed-9923-eb75429e9232
+r	java:S106"+Replace this use of System.out by a logger.(‚å¦¶şÿÿÿÿ8ƒ˜ìÀë1J$8413be65-2f1e-4c03-864f-973f6dfc7ca9
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¢½÷Àë1J$7ffbe4f0-946e-4cab-ba9d-be48d722aaf2

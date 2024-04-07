@@ -35,4 +35,19 @@ public class Car {
     public void setMaxSpeed(int maxSpeed) {
         this.maxSpeed = maxSpeed;
     }
+
+    public Car(String name) {
+
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "Car{" +
+                "colour=" + colour +
+                ", engine=" + engine +
+                ", name='" + name + '\'' +
+                ", maxSpeed=" + maxSpeed +
+                '}';
+    }
 }
