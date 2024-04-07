@@ -1,6 +1,8 @@
 
 ]
-java:S1220""Move this file to a named package.8¾®ŠÁë1J$89205262-691e-4088-b93d-cf5d271123c8
-r	java:S106"+Replace this use of System.out by a logger.(•Ãô®ùÿÿÿÿ8Ë®ŠÁë1J$e226254a-5a77-4ba6-b210-3482c7b0f30c
-m	java:S106"+Replace this use of System.out by a logger.(êİ™8ˆ¿Áë1J$1fd728d5-8c6c-40c2-9681-43a2d975269f
-m	java:S106"+Replace this use of System.out by a logger.(ÿëùš8‰¿Áë1J$fc33022a-5bb4-404c-9583-b216a9cde581
+java:S1220""Move this file to a named package.8Ö‰ƒÌë1J$67adb9dd-c551-46ea-accb-6a4997a49248
+n
+java:S1481"+Remove this unused "myEnum" local variable.(³ š8á‰ƒÌë1J$c8aa9666-03c0-4ff4-b639-4fb2565a28c9
+r	java:S106
+"+Replace this use of System.out by a logger.(ğ“ç–ùÿÿÿÿ8ä‰ƒÌë1J$43713aae-9b14-4995-a13e-3aba5402a3b2
+m	java:S106"+Replace this use of System.out by a logger.(é¿Å¾8å‰ƒÌë1J$d3a9f379-0d66-433b-bff4-98bfdd80d581

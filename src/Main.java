@@ -1,24 +1,25 @@
-import java.util.Arrays;
-import java.util.Scanner;
+
 
 public class Main {
-    static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-        CarFactory carFactory = new CarFactory();
 
-        int numberCars = 0;
-        numberCars = getAnInt(numberCars);
-        System.out.println(Arrays.toString(carFactory.carTable(numberCars)));
-    }
-
-    private static int getAnInt(int numberCars) {
-        try {
-            System.out.println("podaj ilośc pojazdów");
-           numberCars = Integer.parseInt(sc.nextLine());
-
-        }catch (Exception e){
-            System.out.println("Co to a lipa ");
+        MyEnum myEnum;
+        MyEnum yellow = MyEnum.YELLOW;
+        int ordinal = yellow.ordinal();
+        for (MyEnum myEnum1:MyEnum.values()) {
+            System.out.println(myEnum1);
         }
-        return numberCars;
+            System.out.println(ordinal);
+        }
+
+
+    private enum MyEnum{
+        BLACK,
+        YELLOW,
+        GREEN;
+
     }
+
 }
+
+
