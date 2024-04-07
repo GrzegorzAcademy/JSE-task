@@ -44,7 +44,7 @@ public class Car {
     @Override
     public String toString() {
         return "Car " +
-                " colour = " + colour +
+                " colour = " + colour.getDescription() +
                 ", engine = " + engine +
                 ", name = " + name + '\'' +
                 ", maxSpeed = " + maxSpeed;
