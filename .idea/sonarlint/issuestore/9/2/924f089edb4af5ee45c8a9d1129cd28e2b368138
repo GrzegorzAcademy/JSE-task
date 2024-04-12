@@ -1,14 +1,6 @@
 
 ]
-java:S1220""Move this file to a named package.8ÿßÁí1J$fce0da3c-3073-4d27-8834-d83a1139420a
-m	java:S106
-"+Replace this use of System.out by a logger.(Ÿ·³8’àÁí1J$e61eb526-4a8d-4cbe-9882-bb016ad9a035
-„
-java:S1854"<Remove this useless assignment to local variable "variable".(Ÿ²ü¢üÿÿÿÿ8‰àÁí1J$907d6033-2f27-4a5d-b6bd-88737a9947a6
-´
-java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(®Çøÿÿÿÿÿ8‹àÁí1J$46a0a842-621f-4b5e-afdb-ca859605b04a
-u
-java:S1481"-Remove this unused "variable" local variable.(Ÿ²ü¢üÿÿÿÿ8‘àÁí1J$47782031-039c-4528-9f09-f2716f063947
-G	java:S106"+Replace this use of System.out by a logger.(şäæº8ÙõÅí1
-
-java:S1128"=Remove this unused import 'java.util.InputMismatchException'.(İ§18”àÁí1J$d06247cd-12f0-42ba-bf71-0852c1c829ec
+java:S1220""Move this file to a named package.8Šö”í1J$5890725c-5dd6-44a3-862b-db3ce60b1950
+m	java:S106"+Replace this use of System.out by a logger.(½Ãòº8‘ö”í1J$084ae0fb-64c9-4455-af34-65230287c17c
+m	java:S106"+Replace this use of System.out by a logger.(ù§é8Å„„”í1J$54c7ed02-028a-4e48-ba9d-eba0121d0247
+r	java:S106"+Replace this use of System.err by a logger.(º¸ò¸şÿÿÿÿ8’ö”í1J$8c2b3278-a2e7-4353-b9ef-0ddcfd3ea250

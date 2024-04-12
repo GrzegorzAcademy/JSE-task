@@ -1,27 +1,26 @@
+
 import java.io.IOException;
-import java.util.InputMismatchException;
-import java.util.Scanner;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.StandardOpenOption;
+
 
 public class Main {
     public static void main(String[] args) {
+        String pathOfResources = "src/resources/plik.txt";
+        String value = "default value";
+        Path path = Path.of(pathOfResources);
         try {
-            trowExeption();
+            Files.writeString(path, value, StandardOpenOption.CREATE);
         } catch (IOException e) {
-            System.out.println("Exeption");
+            System.out.println("wystapił błąd podczas zapisywania pliku");
         }
-    }
-
-
-    public static void trowExeption() throws IOException {
-        Scanner sc = new Scanner(System.in);
         try {
-            int variable = sc.nextInt();
-        } catch (Exception e) {
-            System.out.println("trowExeption text");
+            String content = Files.readString(path);
+            System.out.println(content);
+        } catch (IOException e) {
+            System.err.println("pład odczytu pliku ");
         }
-
     }
-
 }
-
 

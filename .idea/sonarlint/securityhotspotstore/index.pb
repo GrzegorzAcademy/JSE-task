@@ -20,3 +20,5 @@ C
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+F
+src/resources/plik.txt,3/7/37a795c784c15ec147432070ce8b80694b6c9c52
