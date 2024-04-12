@@ -1,26 +1,25 @@
+import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        try {
+            trowExeption();
+        } catch (IOException e) {
+            System.out.println("Exeption");
+        }
+    }
 
+
+    public static void trowExeption() throws IOException {
         Scanner sc = new Scanner(System.in);
-        int numberInteger = 0;
-        boolean isTrue = true;
-        System.out.println("podaj liczbę : ");
-        do {
-            try {
-                numberInteger = sc.nextInt();
-                isTrue = false;
-                System.out.println(numberInteger);
+        try {
+            int variable = sc.nextInt();
+        } catch (Exception e) {
+            System.out.println("trowExeption text");
+        }
 
-            } catch (InputMismatchException e) {
-                System.out.println("błędna wartość, spróbuj jeszcze raz");
-                sc.nextLine();
-            }
-        } while (isTrue);
-        System.out.println("podałeś " + numberInteger);
-        sc.close();
     }
 
 }
